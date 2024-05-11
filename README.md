@@ -26,6 +26,6 @@ Correlation analysis.
 ### traning_eeg_data
 Experimental model which include CNN Model and FFT transofmration after conv layer. 
 
-Did't work out, will be updated soon. 
+Didn't work out, will be updated soon. 
 
 Probably something went wrong with the data preprocessing. 
