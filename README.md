@@ -1,20 +1,24 @@
 ## Repo description
-This repo contains the analysis of the alcoholic data EEG analysis.
+This repo contains the analysis of the alcoholic data of EEG signals.
 
 
 ### Structure. 
-- exploration_mne_egg — explorating of data with MNE library
-- stat_analysis — statistical analysis of the data
+- exploration_mne_egg — explorating of signals with MNE library
+- stat_analysis — statistical analysis of the signals
 - traning_eeg_data — training of the model to predict the stimulus from the EEG data
 
 #### exploration_mne_egg
+Impressive visualization of single trial for both type participants (control and alcoholic).
 
-Impressive visualization of singl trial of participant. 
 
-![Alt Text](gif.gif)
+##### Alcoholic
+![Alt Text](gif_alcoholic.gif)
+
+##### Control
+![Alt Text](gif_control.gif)
 
 ### stat_analysis
-Just correlation analysis. 
+Correlation analysis. 
 
 ![Alt Text](output.png)
 
