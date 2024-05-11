@@ -11,12 +11,12 @@ This repo contains the analysis of the alcoholic data EEG analysis.
 
 Impressive visualization of singl trial of participant. 
 
-![Alt Text](/Users/dmitrykorzhov/Desktop/Root/projects/bci_stuff/alcoholic_data_eeg/gif.gif)
+![Alt Text](gif.gif)
 
 ### stat_analysis
 Just correlation analysis. 
 
-![Alt Text](/Users/dmitrykorzhov/Desktop/Root/projects/bci_stuff/alcoholic_data_eeg/stat_analysis/output.png)
+![Alt Text](output.png)
 
 
 ### traning_eeg_data
